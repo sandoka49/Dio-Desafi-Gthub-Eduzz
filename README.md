@@ -1,2 +1,2 @@
-# Dio-Desafio-Gthub-Eduzz
+# Dio-Desafio-Github-Eduzz
 Github do bootcamp Eduzz
